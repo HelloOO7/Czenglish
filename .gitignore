@@ -1,5 +1,4 @@
-.build/
-input/
-output/
-test/
-wordcloud/
+/input/
+/output/
+/test/
+/wordcloud/
